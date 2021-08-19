@@ -5,7 +5,7 @@ sections:
     title: test
     subtitle: Optional hero section subtitle
     content: |
-      testursus id molestie vel.
+      test
     actions:
       - label: Try Free
         url: /pricing
