@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: test
+    title: t
     subtitle: Optional hero section subtitle
     content: |
       test
