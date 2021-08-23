@@ -86,7 +86,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-2.png
+        image: images/Ottawa-min-8b688bf0.jpeg
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
